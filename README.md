@@ -1,2 +1,13 @@
 # m365-lab-automation
-Microsoft 365 lab scripts and automation (PowerShell, Graph)
+
+This repository contains PowerShell scripts used in my Microsoft 365 lab environment.
+
+## Topics covered
+
+- User management
+- Microsoft Graph
+- Automation with PowerShell
+
+## Author
+
+Roxana Lopez Moreno
